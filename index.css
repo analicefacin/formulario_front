@@ -1,0 +1,39 @@
+body {
+    background-color:rgb(238, 188, 204);
+    margin: 0; /* Remove bordas brancas padrões do navegador */
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     /* Isso muda a cor de todos os links do seu site */
+a {
+    color: rgb(0, 0, 0); /* Troque 'white' pela cor que você desejar */
+    text-decoration: none; /* Opcional: remove o sublinhado dos links */
+}
+
+/* Opcional: muda a cor quando você passa o mouse por cima */
+a:hover {
+    color: yellow;
+}
+}
+
+
+main {
+    background-color:palevioletred;
+    color:black;
+    -webkit-box-shadow: 16px 14px 25px -2px #dc1e5a ;
+    box-shadow: 16px 14px 25px -2px palevioletred 
+
+}
+#nome{
+    background-color: #eebacb;
+}
+
+#email{
+    background-color: #eebacb;
+}
+
+#senha{
+    background-color: #eebacb;
+}
+
+#idade{
+    background-color: #eebacb;
+}
